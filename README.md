@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @antdeloza
-- 👀 I’m interested in ... Outdoor sports and Software Development
-- 🌱 I’m currently learning ... Swift and iOS apps
-- 💞️ I’m looking to collaborate on ... iOS projects
-- 📫 How to reach me ... antonio.dloza91@gmail.com
+- 👀 I’m interested in Outdoor sports and Software Development
+- 🌱 I’m currently learning Swift and iOS apps
+- 💞️ I’m looking to collaborate on mobile application development projects
+- 📫 How to reach me: please send an email to-> edu.deloza91@gmail.com
 
 <!---
 antdeloza/antdeloza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
